@@ -1,0 +1,27 @@
+Nom du questionnaire : math
+Nombre de questions : 3
+Date création : 2025-05-18
+Date soumission : 2025-05-18
+Date butoir : 2025-06-18
+
+Question 1 :
+(**)
+-6 x 7 =
+
+rep : -42
+
+Question 2 :
+(***)
+(53 + ?) x 3 = 174
+
+A : 1
+B : 5
+C : 25
+D : 121
+rep : B
+
+Question 3 :
+(*)
+3 au carré = 
+
+rep : 9
